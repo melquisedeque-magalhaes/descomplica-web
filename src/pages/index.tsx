@@ -30,9 +30,7 @@ interface Students {
 }
 
 interface StudentsProps {
-    students: {
-        listStudent: Students[];
-    };
+    students: Students[];
 }
 
 export default function Home({ students }: StudentsProps) {
