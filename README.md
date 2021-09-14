@@ -31,7 +31,7 @@ Esse e um projeto da Rocketseat ignite do capitulo 4, onde e construido um dashb
 ## Como rodar o projeto
 
   Clonado o projeto
-  
+
   git clone: https://github.com/melquisedeque-magalhaes/descomplica-web.git
 
   Instalando as dependencias
@@ -56,4 +56,4 @@ Esse e um projeto da Rocketseat ignite do capitulo 4, onde e construido um dashb
 
 ## PROJETO EM PRODUÇÃO
 
-[aplicação em produção](descomplica-web.vercel.app)
+[aplicação em produção](https://descomplica-web.vercel.app)
