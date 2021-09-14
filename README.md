@@ -30,26 +30,26 @@ Esse e um projeto da Rocketseat ignite do capitulo 4, onde e construido um dashb
 
 ## Como rodar o projeto
 
-# Clonado o projeto
-git clone: https://github.com/melquisedeque-magalhaes/descomplica-web.git
+  # Clonado o projeto
+  git clone: https://github.com/melquisedeque-magalhaes/descomplica-web.git
 
-# Instalando as dependencias
-```bash
-$ yarn
-```
-ou
-```
-$ npm install
-```
+  # Instalando as dependencias
+  ```bash
+  $ yarn
+  ```
+  ou
+  ```
+  $ npm install
+  ```
 
-# Executando o projeto
-```bash
-$ yarn dev
-```
-ou
-```bash
-$ npm run dev
-```
+  # Executando o projeto
+  ```bash
+  $ yarn dev
+  ```
+  ou
+  ```bash
+  $ npm run dev
+  ```
 
 ## PROJETO EM PRODUÇÃO
 
