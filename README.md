@@ -34,19 +34,23 @@ Esse e um projeto da Rocketseat ignite do capitulo 4, onde e construido um dashb
 git clone: https://github.com/melquisedeque-magalhaes/descomplica-web.git
 
 # Instalando as dependencias
-``` Bash
-    yarn
+```bash
+$ yarn
 ```
 ou
 ```
-npm install
+$ npm install
 ```
 
 # Executando o projeto
-``` bash
-    yarn dev
+```bash
+$ yarn dev
 ```
 ou
+```bash
+$ npm run dev
 ```
-npm run dev
-```
+
+## PROJETO EM PRODUÇÃO
+
+[aplicação em produção](descomplica-web.vercel.app)
